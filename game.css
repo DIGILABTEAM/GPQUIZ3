@@ -107,8 +107,7 @@
 }
 
 .logo {
-    /* align-items: center; */
-    /* margin-top: 50px; */
+    align-items: center;
     /* padding-top: 1px; */
     /* height: 50px; */
     width: 280px;
