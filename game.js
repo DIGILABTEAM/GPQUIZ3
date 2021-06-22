@@ -12,7 +12,7 @@ let availablequestions = [];
 let questions = [
   {
 
-    question: "What can cause cough?               ",
+    question: "What can cause cough?&nbsp;&nbsp;&nbsp;",
     choice1: "Allergies",
     choice2: "Acid reflux",
     choice3: "Secondhand smoke",
