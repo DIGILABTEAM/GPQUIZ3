@@ -9,8 +9,7 @@ let score = 0;
 let questioncounter = 0;
 let availablequestions = [];
 
-let questions = [
-  {
+let questions = [{
 
     question: "What can cause cough?",
     choice1: "Allergies          ",
@@ -49,7 +48,7 @@ let questions = [
     choice2: "Voice Exercises",
     choice3: "Diet",
     choice4: "All of the above",
-    answer: 1
+    answer: 4
   }
 
 ];
