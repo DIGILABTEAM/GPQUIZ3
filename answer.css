@@ -36,9 +36,10 @@ p {
 }
 
 .hud-prefix {
-    margin-top: 20px;
+    /* margin-top: 20px; */
     text-align: center;
     font-size: 1.4rem;
+    padding-top: 5rem;
 }
 
 .hud-main-text {
