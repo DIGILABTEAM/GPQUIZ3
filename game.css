@@ -32,7 +32,7 @@
 
     border-width: 1px;
     border-color: #259821;
-    border: 1px solid black;
+    /* border: 1px solid black; */
     outline: #4CAF50 solid 10px;
     margin: auto;  
     padding: 10px;
