@@ -21,7 +21,7 @@
 
 .container {
     width: 90vw;
-    height: 60vh;
+    height: 85vh;
     display: flex;
     justify-content: safe;
     align-items: center;
@@ -31,13 +31,13 @@
     margin: 0 auto;
 
     border-width: 1px;
-    border-color: #259821;
+    border-color: #1475cf;
     /* border: 1px solid black; */
-    outline: #4CAF50 solid 10px;
+    outline: #1475cf solid 10px;
     margin: auto;  
     padding: 10px;
-    text-align: center;
-    border-radius: 5px;
+    /* text-align: center; */
+    /* border-radius: 5px; */
 
 }
 
